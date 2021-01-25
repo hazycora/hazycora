@@ -1,7 +1,7 @@
 ## Hey, I'm hazycora!
 
 ### 🔭 I’m currently working on ...
-- Assistant bot for Discord called [Whisker](https://hazycora.com/whisker)
+- Random things whenever I get ideas
 
 ### 🌱 I’m currently learning ...
 - How to make a site actually look good in HTML and CSS (lol)
