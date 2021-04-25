@@ -15,4 +15,4 @@ Send me a DM on Twitter, [@hazycora](https://twitter.com/hazycora). I'll try to 
 If you've just got some feedback and don't need a response, send a message to me on [my site](https://hazy.su/contact).
 
 ### 💵 Throw away your money:
-I've got an account on [LiberaPay](https://liberapay.com/hazy), which is like Patreon but a non-profit and actually good. If you want, you can make a one-time donation there.
+I've got an account on [LiberaPay](https://liberapay.com/hazy), which is like Patreon but a non-profit and actually good. If it's easier, you can instead send a donation on [PayPal](https://paypal.me/hazycora).
