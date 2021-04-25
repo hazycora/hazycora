@@ -1,6 +1,6 @@
 ## Hey, I'm Hazy!
-I'm trying to become good at this whole "programming" thing, *please help*.<br>
-I know JavaScript, HTML, CSS, Node, and *Nothing else*.
+I know JavaScript, HTML, CSS, and Node.<br>
+I'm trying to become good at this whole "programming" thing, *please help*.
 
 ### 📄 I have a few sites.
 [hazycora.com](https://hazycora.com) currently shows some old things I made.<br>
