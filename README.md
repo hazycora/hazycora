@@ -1,1 +1,1 @@
-## h
+![hazycora](hazycora-waving.svg)
