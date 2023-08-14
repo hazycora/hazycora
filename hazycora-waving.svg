@@ -31,7 +31,7 @@
        yChannelSelector="G"
        id="feDisplacementMap53" />
   </filter>
-  <rect fill="#191919" width="100%" height="100%" />
+  <rect fill="#242738" width="100%" height="100%" />
   <path
      fill="#ffffff"
      filter="url(#refract_fast)"
