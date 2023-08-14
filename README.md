@@ -2,8 +2,8 @@
 
 <br>
 
-<center>
+<div style="text-align: center;">
 
 working on projects [@besties](https://git.gay/besties)
 
-</center>
+</div>
