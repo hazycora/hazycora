@@ -1,4 +1,6 @@
-![hazycora](https://git.gay/h/.profile/raw/branch/main/hazycora-waving.svg)
+<div align="center">
+<img height="250" src="https://git.gay/h/.profile/raw/branch/main/hazycora-waving.svg" />
+</div>
 
 <div align="center">
 
