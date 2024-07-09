@@ -1,6 +1,7 @@
 <div align="center">
-<img height="250" src="https://git.gay/h/.profile/raw/branch/main/hazycora-paper.png" />
+<img height="120" src="https://git.gay/h/.profile/raw/branch/main/hazycora-paper.png" />
 </div>
+<br/>
 
 <div align="center">
 
