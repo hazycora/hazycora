@@ -1,5 +1,5 @@
 <div align="center">
-<img height="120" src="https://git.gay/h/.profile/raw/branch/main/hazycora-paper.png" />
+<img width="385" alt="hazycora" src="https://git.gay/h/.profile/raw/branch/main/hazycora-paper.png" />
 </div>
 <br/>
 
