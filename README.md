@@ -5,7 +5,7 @@
 
 <div align="center">
 
-student webdev. working on projects [@besties](https://git.gay/besties)
+webdev, working on projects [@besties](https://git.gay/besties) & other places sometimes
 
 </div>
 
